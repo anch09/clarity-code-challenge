@@ -104,7 +104,7 @@ Clarinet.test({
     }
 });
 
-// tests for readonly functions
+//tests for readonly functions
 
 Clarinet.test({
     name: "get-last-token-id: a user is able to read the last nft id minted",
